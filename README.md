@@ -17,7 +17,7 @@ Each folder contains:
 ## Progress
 - [x] Day 001
 - [x] Day 002
-- [ ] Day 003
+- [x] Day 003
 - [ ] Day 004
 - [ ] Day 005
 - [ ] Day 006
