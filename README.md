@@ -18,7 +18,7 @@ Each folder contains:
 - [x] Day 001
 - [x] Day 002
 - [x] Day 003
-- [ ] Day 004
+- [x] Day 004
 - [ ] Day 005
 - [ ] Day 006
 - [ ] Day 007
